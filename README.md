@@ -15,8 +15,11 @@ Answer the following question:
 match score less than or equal to 300 is treated as "Low scoring match", which season has the 
 highest percentage of high scoring matches?
 6. Find the percentage match win for the following:
+
   a. Winning the toss and fielding first
   b. Playing at home ground
+  
 7. Find the bowler who has given maximum extra runs in IPL History.
 8. Find the percentage of matches won by CSK (Chennai Super King) under the following 
+
    conditions:  Suresh Raina scoring a fifty and above.
