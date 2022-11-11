@@ -2,7 +2,7 @@
 
 Description: You are provided with IPL data set until 2016.
 
-Data set consist of 5 different tables: 1) Ball_by_Ball 2) Match 3) ID Player 4) Season 5)
+Data set consist of 5 different CSV Files: 1) Ball_by_Ball 2) Match 3) ID Player 4) Season 5)
 
 Task: 
 
